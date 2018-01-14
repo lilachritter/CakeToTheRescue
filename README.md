@@ -9,6 +9,7 @@ A small webtask based app to help find cake recipes with ingredients you have at
 ### Install and run the app:
 1. Clone git repository
 2. Make sure MongoDB service is up and running
-3. Inside webtask directory: run `npm install` and then `npm start`
-4. Inside client directory: run `npm install` and then `npm start`
-5. navigate to http://localhost:8080/
+3. Run `wt init` to create your Webtask account
+4. Inside webtask directory: run `npm install` and then `npm start`
+5. Inside client directory: run `npm install` and then `npm start`
+6. navigate to http://localhost:8080/
