@@ -1,0 +1,18 @@
+{
+  "name": "caketotherescue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wt create index --secret MONGO_URL=mongodb://recipe:recipe@ds247407.mlab.com:47407/recipes_db --bundle"
+  },
+  "author": "lilachritter",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.9",
+    "webtask-tools": "^3.2.0"
+  }
+}
