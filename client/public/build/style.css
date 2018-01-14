@@ -1,0 +1,44 @@
+.tile-icon {
+  color: white;
+  padding: 5px;
+  margin-right: 5px;
+  font-size: 14px;
+  border: 1px solid white;
+  border-radius: 15px;}
+.cakeRescue-wrapper {
+   background-color: lightpink;
+   }
+
+.cakeRescue-header {
+   margin-bottom: 20px;
+   background-color: #735C5C !important;
+}
+
+.cakeRescue-input {
+   padding: 10px 30px;
+   margin: auto;
+   width: 60%;
+}
+
+.cakeRescue-sub-header {
+   font-family: Georgia, serif;
+   font-size: 18px;
+   font-style: italic;
+   color: #383838;
+}
+
+.cakeRescue-quote{
+   padding-bottom: 25px;
+   font-size: 30px;
+   text-align: center;
+}
+
+.cakeRescue-textField {
+   width:85% !important;
+}
+
+.cakeRescue-button {
+   margin-left: 20px;
+}
+
+/*# sourceMappingURL=style.css.map*/
