@@ -12,4 +12,4 @@ A small webtask based app to help find cake recipes with ingredients you have at
 3. Run `wt init` to create your Webtask account
 4. Inside webtask directory: run `npm install` and then `npm start`
 5. Inside client directory: run `npm install` and then `npm start`
-6. navigate to http://localhost:8080/
+6. Navigate to http://localhost:8080/
